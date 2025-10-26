@@ -18,7 +18,9 @@
 
 <h2>📺 Certificates</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [AWS CLoud Practitioner Essentials Certificate](https://imgur.com/a/LO62Ybo)
+  
+- [Google Data Analytics Certificate](https://imgur.com/a/RG1deVB)
 
 
 <h2> 🤳 Connect with me:</h2>

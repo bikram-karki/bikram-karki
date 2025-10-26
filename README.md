@@ -16,30 +16,19 @@
 - <b>Housing Data Cleaning</b>
   - [Housing Data Cleaning](https://github.com/bikram-karki/PortfolioProjects/blob/main/HousingDataCleaning.sql)
 
-<h2>📺 Certificates</h2>
+<h2><img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/adab694c-a711-4202-8522-a7838d91304c" />
+ Certificates</h2>
 
-- [AWS CLoud Practitioner Essentials Certificate](https://imgur.com/a/LO62Ybo)
+- [AWS Cloud Practitioner Essentials Certificate](https://imgur.com/a/LO62Ybo)
   
 - [Google Data Analytics Certificate](https://imgur.com/a/RG1deVB)
+
+- [Excel: Lookup Functions In Depth](https://imgur.com/a/KpQ2Uir)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/bikramkarki
+[linkedin]: (https://linkedin.com/in/bikramkarki)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

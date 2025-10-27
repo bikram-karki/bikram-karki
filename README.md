@@ -32,7 +32,7 @@
 
 <h2> Resume</h2>
 
-- [Resume](https://github.com/bikram-karki/Resume)
+- [Resume](https://github.com/bikram-karki/Resume/blob/main/index.md)
 
 
 <h2> 🤳 Connect with me</h2>

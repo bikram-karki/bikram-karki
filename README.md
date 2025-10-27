@@ -30,6 +30,10 @@
   
 - [Introduction to SQL](https://imgur.com/a/cwwAKAv)
 
+<h2> Resume</h2>
+
+- [Resume](https://github.com/bikram-karki/Resume)
+
 
 <h2> 🤳 Connect with me</h2>
 
